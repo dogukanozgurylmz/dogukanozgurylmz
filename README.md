@@ -10,12 +10,15 @@
   <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=dogukanozgurylmz&countColor=%237B1E7A" /></a>
 </p>
 
-
-<a href="https://github.com/dogukanozgurylmz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukanozgurylmz&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a>
-<a href="https://github.com/dogukanozgurylmz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanozgurylmz&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dogukanozgurylmz&show_icons=true&theme=material-palenight" alt="mythredd :: Profile Stats" /></p>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanozgurylmz&langs_count=10&theme=material-palenight&layout=compact" alt="mythredd :: Top Langs" /></p>
 
 <hr>
 
 - [Personal Website](https://github.com/dogukanozgurylmz/PersonalWebsite)
 - [HRMS Project Frontend](https://github.com/dogukanozgurylmz/HRMS-Project-Frontend)
 - [HRMS Project](https://github.com/dogukanozgurylmz/HRMS-Project)
+
+
+
