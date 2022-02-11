@@ -16,7 +16,7 @@
 
 <hr>
 
-- [Personal Website](https://github.com/dogukanozgurylmz/PersonalWebsite)
+- [Quizzy App](https://github.com/dogukanozgurylmz/Quizzy-App)
 - [HRMS Project Frontend](https://github.com/dogukanozgurylmz/HRMS-Project-Frontend)
 - [HRMS Project](https://github.com/dogukanozgurylmz/HRMS-Project)
 
