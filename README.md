@@ -16,8 +16,7 @@
 
 <hr>
 
-- [HRMS Project Frontend](https://github.com/dogukanozgurylmz/HRMS-Project-Frontend)
-- [HRMS Project](https://github.com/dogukanozgurylmz/HRMS-Project)
+- [myLibrary App](https://github.com/dogukanozgurylmz/my_library_app)
 
 
 
