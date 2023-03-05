@@ -1,6 +1,6 @@
-<h1> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="24">, I'm Doğukan Özgür Yılmaz</h1>
+<h1> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="24">, I'm Flutter Developer</h1>
 
-<p style="font-size:28px;"><i>Flutter Developer</i></p>
+<p style="font-size:28px;"><i></i></p>
 
 <p>
   <a href="https://www.linkedin.com/in/dogukanozgurylmz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
