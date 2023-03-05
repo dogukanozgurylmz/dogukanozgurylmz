@@ -1,22 +1,23 @@
-<h1 align='center'> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Doğukan Özgür Yılmaz</h1>
+<h1> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="24">, I'm Doğukan Özgür Yılmaz</h1>
 
-<p align='center'>
-  I graduated from <b>Atatürk University</b> Computer Programming.. 
-</p>
+<p style="font-size:28px;"><i>Flutter Developer</i></p>
 
-<p align='center'>
+<p>
   <a href="https://www.linkedin.com/in/dogukanozgurylmz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:dogukanozgurylmz@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=dogukanozgurylmz&countColor=%237B1E7A" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dogukanozgurylmz&show_icons=true&theme=material-palenight" alt="mythredd :: Profile Stats" /></p>
-<br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanozgurylmz&langs_count=10&theme=material-palenight&layout=compact" alt="mythredd :: Top Langs" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanozgurylmz&langs_count=8&theme=nord&layout=compact" alt="mythredd :: Top Langs" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=dogukanozgurylmz&show_icons=true&theme=nord" alt="mythredd :: Profile Stats" />
 
 <hr>
 
-- [myLibrary App](https://github.com/dogukanozgurylmz/my_library_app)
+[mylibrary_app]:https://github-readme-stats.vercel.app/api/pin/?username=dogukanozgurylmz&repo=my_library_app&theme=nord
 
+[open_weather_app]:https://github-readme-stats.vercel.app/api/pin/?username=dogukanozgurylmz&repo=open_weather_app&theme=nord
 
-
+| | |
+| :--: | :--: |
+| ![mylibrary_app][mylibrary_app] | ![open_weather_app][open_weather_app] | | |
